@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "サンシャイン",
+  "base_artist": "OneRepublic",
+  "createdAt": "2025-12-11T13:29:45.963691Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サンシャイン",
+      "artist": "SPITZ",
+      "has_synced": false,
+      "path": "select/01_サンシャイン_SPITZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サンシャイン",
+      "artist": "Ms.OOJA",
+      "has_synced": true,
+      "path": "select/02_サンシャイン_Ms.OOJA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "常夏☆サンシャイン",
+      "artist": "澁谷かのん (CV.伊達さゆり) feat. 唐 可可 (CV.Liyuu), 嵐 千砂都 (CV.岬 なこ) & 平安名すみれ (CV.ペイトン尚未)",
+      "has_synced": true,
+      "path": "select/03_常夏☆サンシャイン_澁谷かのん_(CV.伊達さゆり)_feat._唐_可可_(CV.Liyuu),_嵐_千砂都_(CV.岬_なこ)_&_平安名すみれ_(CV.ペイトン尚未).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "常夏☆サンシャイン",
+      "artist": "澁谷かのん(CV.伊達さゆり)、唐可可(CV.Liyuu)、嵐千砂都(CV.岬なこ)、平安名すみれ(CV.ペイトン尚未)",
+      "has_synced": true,
+      "path": "select/04_常夏☆サンシャイン_澁谷かのん(CV.伊達さゆり)、唐可可(CV.Liyuu)、嵐千砂都(CV.岬なこ)、平安名すみれ(CV.ペイトン尚未).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エターナル☆サンシャイン",
+      "artist": "hitomi",
+      "has_synced": true,
+      "path": "select/05_エターナル☆サンシャイン_hitomi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サムシング・アバウト・ザ・サンシャイン - ソロ",
+      "artist": "Anna Margaret",
+      "has_synced": false,
+      "path": "select/06_サムシング・アバウト・ザ・サンシャイン_-_ソロ_Anna_Margaret.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ララ サンシャイン",
+      "artist": "森高千里",
+      "has_synced": true,
+      "path": "select/07_ララ_サンシャイン_森高千里.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ララ サンシャイン",
+      "artist": "Moritaka, Chisato",
+      "has_synced": true,
+      "path": "select/08_ララ_サンシャイン_Moritaka,_Chisato.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サンシャイン・ロマンス",
+      "artist": "Original Love",
+      "has_synced": true,
+      "path": "select/09_サンシャイン・ロマンス_Original_Love.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "常夏☆サンシャイン",
+      "artist": "澁谷かのん (CV.伊達さゆり)",
+      "has_synced": true,
+      "path": "select/10_常夏☆サンシャイン_澁谷かのん_(CV.伊達さゆり).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サンシャイン･ベル",
+      "artist": "ファララ（cv.佐藤あずさ）",
+      "has_synced": false,
+      "path": "select/11_サンシャイン・ベル_ファララ(cv.佐藤あずさ).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunshine",
+      "artist": "OneRepublic",
+      "has_synced": false,
+      "path": "select/pl_01_Sunshine_OneRepublic.txt"
+    }
+  ]
+}
